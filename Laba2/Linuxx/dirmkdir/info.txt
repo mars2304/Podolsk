@@ -1,3 +1,20 @@
-Полное название: mkdir (make directory)
-Основной разработчик: AT&T Bell Labs (Кен Томпсон и Деннис Ритчи)
-Особенности: команда создания новых каталогов; опция -p позволяет создавать вложенные пути целиком, не выдавая ошибку при существовании промежуточных директорий.
+Ae-21-23;ZhigulinKY;2026-10-20;2;2
+Ae-21-23;ZhigulinKY;2026-01-09;0;2
+Ae-21-23;ZhigulinKY;2026-03-29;5;5
+Ae-21-23;ItskovIS;2026-08-31;2;2
+Ae-21-23;ItskovIS;2026-12-30;1;2
+Ae-21-23;ItskovIS;2026-10-14;3;3
+Ae-21-23;LiaminTA;2026-09-19;5;5
+Ae-21-23;NesterovAS;2026-06-01;0;2
+Ae-21-23;NesterovAS;2026-11-08;3;3
+Ae-21-23;PershakovSA;2026-03-23;1;2
+Ae-21-23;PershakovSA;2026-07-23;3;3
+Ae-21-23;SimonovAR;2026-01-26;5;5
+Ae-21-23;SudbininNA;2026-07-08;5;5
+Ae-21-23;FrolovaMarVl;2026-12-21;2;2
+Ae-21-23;FrolovaMarVl;2026-11-08;2;2
+Ae-21-23;FrolovaMarVl;2026-03-14;2;2
+Ae-21-23;FrolovaMarVl;2026-10-03;4;4
+
+~/Downloads/Podolsk/Laba3/labfiles-3-26/Пересдачеведение/tests/TEST-1
+~/Downloads/Podolsk/Laba3/labfiles-3-26/Цирковое_Дело/tests/TEST-1
