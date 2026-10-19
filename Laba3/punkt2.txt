@@ -1,0 +1,10 @@
+N=$(
+  { 
+    (cd Пересдачеведение/tests && awk -F';' '$5=="3" && $3 ~ /^202[456]-/' TEST-*)
+    (cd Цирковое_Дело/tests   && awk -F';' '$5=="3" && $3 ~ /^202[456]-/' TEST-*)
+  } | wc -l
+)
+echo "Total threes 2024-2026: $N" >> report_2026.txt
+
+tail -3 report_2026.txt
+wc -l report_2026.txt

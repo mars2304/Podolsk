@@ -1,0 +1,7 @@
+{
+  (cd Пересдачеведение/tests && grep -h ';2026-' TEST-* | grep -E ';[3-5][-+]*$' | awk -F';' '{print $2","$1","$5}')
+  (cd Цирковое_Дело/tests   && grep -h ';2026-' TEST-* | grep -E ';[3-5][-+]*$' | awk -F';' '{print $2","$1","$5}')
+} | sort > report_2026.txt
+
+wc -l report_2026.txt
+head report_2026.txt
