@@ -1,0 +1,2 @@
+sed -i 's/^KaraliusDD .*/KaraliusDD 111111111111111111/' Пересдачеведение/A-09-23-attendance
+sed -i 's/^KaraliusDD .*/KaraliusDD 111111111111111111/' Цирковое_Дело/A-09-23-attendance
